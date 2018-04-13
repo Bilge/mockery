@@ -1,5 +1,5 @@
 {
-    "name": "mockery/mockery",
+    "name": "bilge/mockery",
     "description": "Mockery is a simple yet flexible PHP mock object framework",
     "scripts": {
         "docs": "phpdoc -d library -t docs/api"
